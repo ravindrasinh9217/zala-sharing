@@ -19,7 +19,6 @@ import java.net.Inet4Address
 import java.net.NetworkInterface
 
 const val PORT = 8765
-const val DISC_PORT = 48555
 const val BUF = 1024 * 1024
 
 interface Listener {
